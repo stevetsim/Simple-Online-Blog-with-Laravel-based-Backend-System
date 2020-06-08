@@ -1,4 +1,4 @@
-# Online Blog with backend system
+# Online Blog with Laravel-based backend system
 It is a simple online blog written in **Laravel** that include all basic function as a blog, such as login, blog management as well as comment management function
 
 ---
